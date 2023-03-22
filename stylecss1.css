@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url("../PARCIAL2/Recurso1.png");
+    background-size: cover;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+.p2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: #F0009D;
+}
+
+ol {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
